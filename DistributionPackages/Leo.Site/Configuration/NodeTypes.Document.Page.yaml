@@ -1,0 +1,7 @@
+'Leo.Site:Document.Page':
+  superTypes:
+    'Leo.Site:Document.AbstractPage': true
+  ui:
+    label: i18n
+    icon: file-o
+    position: 100
